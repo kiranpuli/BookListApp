@@ -1,10 +1,10 @@
 # BookListApp
 a simple JS application for managing a book list
 
-Functionlity
+Functionlity:
 
-=> Adding book,author
+=> Adding book & author;
 => Remove last added book
 
-*Things to improve
+*Things to improve:
 adding remove function to every added element
