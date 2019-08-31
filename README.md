@@ -7,4 +7,4 @@ Functionlity:
 - Remove last added book
 
 ## Things to improve:
-[] Adding remove function to every added element
+- [ ] Adding remove function to every added element
